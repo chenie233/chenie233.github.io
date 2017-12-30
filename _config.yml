@@ -28,9 +28,8 @@ gems:
 owner:
   name:chenie
   email:1580435918@qq.com
-  bio: "chenie，中山大学南方学院2016级网络新媒体"
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+  bio:"陈文静"
+  
 
 
 include:
