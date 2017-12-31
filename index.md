@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "非黑即白"
 ---
 
 <div class="tiles">
