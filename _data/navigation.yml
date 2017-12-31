@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: 信息可视化作品集
+- title: 信息可视化作品
   url: /infovis/
-  excerpt:
-  image: 
+  excerpt:信息可视化的个人作品
+  image: 002.gif
   
 - title: Web作品
   url: /portfolio/
-  excerpt:
-  image: 
+  excerpt:网页设计的个人作品集
+  image: 001.gif
   
-- title: 信息可视化categories
+- title: 信息可视化笔记
   url: /posts/infovis
-  excerpt:
-  image: 
+  excerpt:文章
+  image: 003.gif
   
-- title: Web categories
+- title: Web笔记
   url: /posts/rwd
-  excerpt:
-  image: 
+  excerpt:文章
+  image: 004.gif
