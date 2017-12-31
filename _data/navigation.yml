@@ -1,16 +1,21 @@
 # Site navigation links
 
-- title: 信息可视化
-  url: 
+- title: 信息可视化作品集
+  url: /production/infovis
   excerpt:
   image: 
   
-- title: 网页设计
-  url:
+- title: Web作品
+  url: /production/portfolio
   excerpt:
   image: 
   
-- title: 作品集
-  url:
+- title: 信息可视化categories
+  url: /posts/infovis
+  excerpt:
+  image: 
+  
+- title: Web categories
+  url: /posts/rwd
   excerpt:
   image: 
