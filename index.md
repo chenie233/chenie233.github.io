@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "非黑即白"
+title: "天马行空"
 ---
 
 <div class="tiles">

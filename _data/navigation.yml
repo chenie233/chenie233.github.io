@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: 信息可视化作品集
-  url: /production/infovis
+  url: /infovis/
   excerpt:
   image: 
   
 - title: Web作品
-  url: /production/portfolio
+  url: /portfolio/
   excerpt:
   image: 
   
