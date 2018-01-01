@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $Light salmon pink;
+    background: $Lightsalmonpink;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -142,7 +142,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-	  border: 3px solid $Light salmon pink
+	  border: 3px solid $Lightsalmonpink
     }
     .title {
       display: block;
@@ -165,7 +165,7 @@
       }
     }
 	 .title:hover,.excerpt:hover,.teaser:hover{
-        color: $Light salmon pink;
+        color: $Lightsalmonpink;
     }
   }
   .sub-menu-item > li a {

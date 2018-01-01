@@ -19,15 +19,15 @@ $border-radius               	: 3px;
 
 /*
    Color variables
-   Background : Lemon yello #fff44f  http://encycolorpedia.cn/fff44f
-   Light salmon pink #ff9999
+   Background : Lemon yellow #fff44f  http://encycolorpedia.cn/fff44f
+   Lightsalmonpink #ff9999
    text-color: white
    ========================================================================== */
 
 $white                        : #fff;
 $black                        : #000;
-$Lemon yellow                 : #fff44f;
-$Light salmon pink            : #ff9999;
+$Lemonyellow                  : #fff44f;
+$Lightsalmonpink              : #ff9999;
 $lightsteelblue               : #b0c4de;
 
 $body-color                  	: #ebebeb;
@@ -90,7 +90,7 @@ $sliding-menu-border-color	 	   : $lightsteelblue;
 $sliding-menu-background 		   : $lightsteelblue;
 $sliding-menu-color 	 		   : $white;
 $sliding-menu-background-hover     : $lightsteelblue;
-$sliding-menu-color-hover	 	   : $Lemon yellow;
+$sliding-menu-color-hover	 	   : $Lemonyellow;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	     : 30px;
 $transition						         : 0.3s; // increase this to see the transformations in slow-motion
