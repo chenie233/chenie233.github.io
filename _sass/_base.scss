@@ -10,7 +10,7 @@ body {
 	font-family: $base-font;
 	color: $text-color;
 	background-image: 
-      linear-gradient(rgba(255, 255, 224, 0.9), rgba(255, 255, 224, 0.7)), 
+      linear-gradient(rgba(255, 244, 79, 0.9), rgba(255, 244, 79, 0.7)), 
       url('https://chenie233.github.io//images/sakura01.jpg');
 	@include font-size(16);
 }

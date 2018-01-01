@@ -19,27 +19,28 @@ $border-radius               	: 3px;
 
 /*
    Color variables
-   Background : beige #f5f5dc  http://encycolorpedia.cn/f5f5dc
-   亚麻色/linen #faf0e6
+   Background : Lemon yello #fff44f  http://encycolorpedia.cn/fff44f
+   Light salmon pink #ff9999
    text-color: white
    ========================================================================== */
 
 $white                        : #fff;
 $black                        : #000;
-$beige                        : #f5f5dc;
-$linen                        : #faf0e6;
+$Lemon yello                  : #fff44f;
+$Light salmon pink            : #ff9999;
+$lightsteelblue               : #b0c4de;
 
 $body-color                  	: #ebebeb;
 
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: #eea5a7;
+$base-color                  	: $lightsteelblue;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $beige;
+$primary-color               	: $lightsteelblue;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -85,11 +86,11 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $black;
-$sliding-menu-color 	 		     : $white;
-$sliding-menu-background-hover : $black;
-$sliding-menu-color-hover	 	   : #fff44f;
+$sliding-menu-border-color	 	   : $lightsteelblue;
+$sliding-menu-background 		   : $lightsteelblue;
+$sliding-menu-color 	 		   : $white;
+$sliding-menu-background-hover     : $lightsteelblue;
+$sliding-menu-color-hover	 	   : $Lemon yello;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	     : 30px;
 $transition						         : 0.3s; // increase this to see the transformations in slow-motion
