@@ -19,3 +19,8 @@
   url: /posts/rwd
   excerpt: 文章
   image: 004.gif
+  
+ -title: private
+  url: /portfolio/
+  excerpt: 小辣鸡的天马行空
+  image: 006.gif
