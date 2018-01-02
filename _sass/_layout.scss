@@ -71,11 +71,15 @@
 			}
 			&:after {
 				width: 0;
-				background: $black;
+				background: $Lemonyellow;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
+			}
+			&:hover {
+			    color: $Lemonyellow;
+				background-color: #f5f5dc;
 			}
 		}
 	}
