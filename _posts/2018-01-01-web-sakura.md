@@ -3,7 +3,7 @@ layout: article
 title: "web-sakura"
 excerpt: 第一个简单的网站
 date: 2018-01-01 23:00:00 +0800
-categories: portpolio
+categories: portfolio
 image: 
   teaser: web-sakura.jpg
   feature: 
