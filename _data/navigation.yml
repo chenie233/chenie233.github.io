@@ -3,7 +3,7 @@
 - title: 信息可视化作品
   url: /infovis/
   excerpt: 信息可视化的个人作品
-  image: infovis.jpg
+  image: infovis.jpeg
   
 - title: Web作品
   url: /portfolio/
@@ -13,12 +13,12 @@
 - title: 信息可视化笔记
   url: /posts/infovis
   excerpt: 文章
-  image: vis.jpg
+  image: vis.jpeg
   
 - title: Web笔记
   url: /posts/rwd
   excerpt: 文章
-  image: rwd.jpg
+  image: rwd.jpeg
   
 - title: private
   url: /yayle/
