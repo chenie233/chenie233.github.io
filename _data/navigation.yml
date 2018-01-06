@@ -3,24 +3,24 @@
 - title: 信息可视化作品
   url: /infovis/
   excerpt: 信息可视化的个人作品
-  image: 001.gif
+  image: infovis.jpg
   
 - title: Web作品
   url: /portfolio/
   excerpt: 网页设计的个人作品集
-  image: 002.gif
+  image: portfolio.jpg
   
 - title: 信息可视化笔记
   url: /posts/infovis
   excerpt: 文章
-  image: 003.gif
+  image: vis.jpg
   
 - title: Web笔记
   url: /posts/rwd
   excerpt: 文章
-  image: 004.gif
+  image: rwd.jpg
   
 - title: private
   url: /yayle/
   excerpt: 小辣鸡的天马行空
-  image: 006.gif
+  image: private.gif
