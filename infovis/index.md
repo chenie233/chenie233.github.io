@@ -6,7 +6,7 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: final-canteen.png
+  feature: 
   teaser:
 ---
 
