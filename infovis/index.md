@@ -6,11 +6,11 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: 
+  feature: final-canteen.png
   teaser:
 ---
 
-- <a href="https://public.tableau.com/profile/chenie7865#!/vizhome/_18152/2?publish=yes">![数据分析.png](https://chenie233.github.io/images/final-canteen.png)</a>
+<a href="https://public.tableau.com/profile/chenie7865#!/vizhome/_18152/2?publish=yes">![数据分析.png](https://chenie233.github.io/images/final-canteen.png)</a>
 
 
 
